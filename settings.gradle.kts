@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "EmojiDataJava"
+rootProject.name = "EmojiDataMapper"
 include(":app")
-include(":EmojiDataJava")
+include(":EmojiDataMapper")
