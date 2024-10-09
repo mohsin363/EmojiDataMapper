@@ -1,7 +1,26 @@
 # EmojiDataMapper
 *The emoji library for mapping codes to Emojis Based on emoji-data-java*
 
-**EmojiDataJava** is a lightweight Java library that helps you use Emojis in your Java applications.
+**EmojiDataMapper** is a lightweight Java library that helps you use Emojis in your Java applications.
+
+**I have published library to Maven Central**
+
+## How to get it?
+
+##### Via Maven:
+```xml
+<dependency>
+  <groupId>io.github.mohsin363</groupId>
+  <artifactId>emojidatamapper</artifactId>
+  <version>1.0.0</version>
+</dependency>
+```
+
+##### Via Gradle:
+```gradle
+implementation("io.github.mohsin363:emojidatamapper:1.0.0")
+```
+
 
 ## How to use it?
 

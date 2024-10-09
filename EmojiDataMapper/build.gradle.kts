@@ -43,13 +43,13 @@ mavenPublishing {
         )
     )
 
-    coordinates("io.github.mohsin363", "emojidatajava", "1.0.0")
+    coordinates("io.github.mohsin363", "emojidatamapper", "1.0.0")
 
     pom {
-        name.set("EmojiDataJava")
+        name.set("EmojiDataMapper")
         description.set("A Java/Kotlin library for handling Emoji data")
         inceptionYear.set("2024")
-        url.set("https://github.com/mohsin363/EmojiDataJava")
+        url.set("https://github.com/mohsin363/EmojiDataMapper")
 
         licenses {
             license {
